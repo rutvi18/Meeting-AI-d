@@ -1,0 +1,17 @@
+
+    Attendees: Alice, Bob, Carol, David
+    Date: July 8, 2025
+    Topic: Q3 Marketing Strategy Review
+
+    Alice: Hi team, thanks for joining. Let's start with a quick review of Q2 performance. Bob, can you share the sales figures?
+    Bob: Sure. Q2 sales were up 15% year-over-year, largely due to the social media campaign. However, customer acquisition cost increased.
+    Carol: That's concerning. I think we need to re-evaluate our targeting. Alice, could you look into optimizing the Facebook ad spend by end of next week?
+    Alice: Yes, I can do that.
+    David: I've started drafting the Q3 campaign proposals. I need input on new content ideas. Bob, could you brainstorm some viral content concepts by Friday?
+    Bob: Got it. I'll get some ideas ready.
+    Alice: Also, Carol, we need to schedule a follow-up with the SEO agency. Please send out calendar invites for next Tuesday.
+    Carol: On it. I'll ensure everyone is available.
+    Bob: Regarding the new product launch, we need a strong press release. David, can you finalize the draft for review by next Monday?
+    David: Absolutely. I'll have it ready.
+    Alice: Great. Let's aim to finalize the strategy by the end of July.
+    
