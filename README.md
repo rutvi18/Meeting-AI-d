@@ -27,18 +27,18 @@ Meeting AI-d is a Python-based tool that leverages OpenAI's powerful GPT models 
 
 ### Prerequisites
 
-Ensure you have **Python 3.8+** installed. You can download it from [python.org](https://www.python.org/downloads/).
+Ensure you have **Python** installed. You can download it from [python.org](https://www.python.org/downloads/).
 
 ### Steps
 
 1.  **Clone the Repository (or create the project folder):**
 
     ```bash
-    git clone https://github.com/your-username/meeting-ai-d.git
+    git clone https://github.com/rutvi18/meeting-ai-d.git
     cd meeting-ai-d
     ```
 
-    *(Replace `https://github.com/your-username/meeting-ai-d.git` with your actual repo URL if you plan to host it on GitHub)*
+ 
 
 2.  **Create a Virtual Environment (Recommended):**
 
